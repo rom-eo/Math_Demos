@@ -3,7 +3,7 @@
 """
 Created on Thu Oct 22 11:35:37 2020
 
-@author: a
+@author: rom-eo
 """
 #import sympy as sp#
 from sympy import init_printing,latex,Matrix
